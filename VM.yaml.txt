@@ -1,0 +1,7 @@
+$schema httpsazuremlschemas.azureedge.netlatestvmCompute.schema.json 
+name vm-example
+type virtualmachine
+resource_id subscriptionsSUBSCRIPTION_IDresourceGroupsRESOURCE_GROUPprovidersMicrosoft.ComputevirtualMachinesVM_NAME
+ssh_settings
+  admin_username admin_username
+  admin_password admin_password
